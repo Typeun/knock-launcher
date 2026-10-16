@@ -2,7 +2,7 @@
 
 用**指关节敲击屏幕**触发动作的 Android 小工具。附带一个副产品：**瞬截**——打开即截图。
 
-> 🤖 本项目的代码与文档均由作者与 **[DeepSeek](https://www.deepseek.com/)** 协作完成（通过 OpenClaw 智能体）。
+> 🤖 本项目**完全由 [DeepSeek](https://www.deepseek.com/) 生成**（经由 OpenClaw 智能体）。
 
 ![license](https://img.shields.io/badge/license-GPL--3.0-blue)
 ![platform](https://img.shields.io/badge/platform-Android%208.0%2B-green)
@@ -191,6 +191,7 @@ PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 ## 生成说明
 
-- **README 由 [DeepSeek](https://www.deepseek.com/) 生成**（经由 OpenClaw 智能体协作）
-- 代码同样为作者与 DeepSeek 协作产出：需求、调试、真机测试由作者完成，实现与文档由 DeepSeek 完成
-- 实测数据、失败记录、踩坑结论均来自真实设备（见 [docs/notes.md](docs/notes.md)）
+**本项目的全部内容——代码、构建脚本、技术文档、本 README——完全由 [DeepSeek](https://www.deepseek.com/) 生成**（经由 OpenClaw 智能体）。
+
+- 未使用任何模板、脚手架或现成工程，所有文件从零生成
+- 文中实测数据、失败记录与踩坑结论，来自生成过程中在真实设备上的验证（见 [docs/notes.md](docs/notes.md)）
