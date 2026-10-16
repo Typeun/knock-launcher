@@ -1,0 +1,28 @@
+# 构建产物
+classes/
+dexout/
+*.apk
+*.ap_
+base.apk
+unsigned.apk
+aligned.apk
+
+# 签名与口令（绝不入库）
+debug.keystore
+*.keystore
+*.jks
+kspass.txt
+
+# 采集样本（含个人录音，不入库）
+*.wav
+*.txt.bak
+sample_*
+touch_*
+accel_*
+mic_*
+
+# 其他
+.gradle/
+build/
+local.properties
+*.log
