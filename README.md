@@ -3,6 +3,8 @@
 用**指关节敲击屏幕**触发动作的 Android 小工具。附带一个副产品：**瞬截**——打开即截图。
 
 > 🤖 本项目由 **[DeepSeek](https://www.deepseek.com/)** 生成（经由 OpenClaw 智能体）。
+>
+> ℹ️ **维护状态：不维护。** 这是一次性发布的实验项目，作者不会持续更新；欢迎 Fork 自行修改。
 
 ![license](https://img.shields.io/badge/license-GPL--3.0-blue)
 ![platform](https://img.shields.io/badge/platform-Android%208.0%2B-green)
